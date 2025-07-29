@@ -70,5 +70,10 @@ Os dados brutos, provenientes de múltiplos arquivos anuais, passaram por um rig
 * **Insight 3:** A faixa etária de 20 a 40 anos representa o grupo mais crítico, estes somando mais de 1.4 Milhões de acidentes de transito, este grupo de idade é seguido por aqueles entre 40-50 anos, que somam 603 Mil acidentes.
 ---
 
+### 📂 Arquivo Fonte do Power BI (.pbix)
+Devido ao tamanho do arquivo (277MB), o relatório fonte do Power BI está hospedado no Google Drive.
+
+**[Clique aqui para baixar o arquivo .pbix via Google Drive](https://drive.google.com/file/d/1h38cj5MR65cn3l1LxkEjdk-qriF3fFkL/view?usp=sharing)**
+
 ### Contato
 **[Luis César da Fonseca Pereira]** - [LinkedIn](https://www.linkedin.com/in/luis-cesar-pereira/) 
