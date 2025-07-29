@@ -1,0 +1,4 @@
+Os dados brutos utilizados neste projeto foram obtidos através do Portal de Dados Abertos da Polícia Rodoviária Federal (PRF).
+
+A fonte de dados abrange o período de 2017 a 2025 e pode ser acessada publicamente através do link:
+https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-acidentes
