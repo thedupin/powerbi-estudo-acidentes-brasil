@@ -32,6 +32,7 @@ Os dados brutos, provenientes de múltiplos arquivos anuais, passaram por um rig
 
 #### Modelo de Dados (Esquema Estrela)
 <img src="imagens/estrela.jpg" alt="Modelo de Dados" width="500"/>
+
 ---
 
 ### Principais Dashboards e Insights
