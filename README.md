@@ -14,7 +14,7 @@ Este projeto realiza uma análise completa dos dados de acidentes de trânsito r
 ### 🎥 Demonstração Completa em Vídeo
 **Para uma análise detalhada e apresentação dos insights, assista à demonstração completa:**
 
-**[▶️ Assistir Apresentação no YouTube (5 min)](https://youtu.be/2NJZDXuL31Q)**
+**[▶️ Assistir Apresentação no YouTube (5 min)](https://youtu.be/Yi-z-ZbT0vQ)**
 
 ### Perguntas Respondidas
 O dashboard foi construído para responder a perguntas críticas, como:
