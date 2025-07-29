@@ -2,6 +2,10 @@
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
+### 🎬 Dashboard em Ação
+![GIF do Dashboard](imagens/dashboard.gif)  
+*<p align="center">Breve demonstração da interatividade dos filtros e visuais do dashboard.</p>*
+
 ---
 
 ### Resumo do Projeto
